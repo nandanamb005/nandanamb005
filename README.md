@@ -1,101 +1,168 @@
 ## Hi there 👋
-🎓 B.Tech Computer Science & Engineering Student  
-💻 Passionate about Software Development, AI, Computer Vision & Embedded Systems  
-🌱 Currently learning Django, Computer Vision, and Embedded Systems  
-🚀 Building projects to solve real-world problems
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20👋,%20I'm%20Nandana%20M%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Future%20Software%20Engineer&descAlignY=58"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+%26+Computer+Vision+Enthusiast;Backend+Developer;Embedded+Systems+Learner;Linux+User;Always+Learning+New+Things+🚀"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE Student
-- 💡 Interested in AI, Embedded Systems, and Backend Development
-- 📚 Always learning new technologies
-- 🎯 Goal: Build impactful software and become a skilled software engineer
-- 🐧 Linux enthusiast
+🎓 B.Tech Computer Science Student
 
----
+💻 Passionate about
 
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Current Projects
-
-🚀 College ERP System
-
-Features:
-- Student Management
-- Faculty Portal
-- Attendance Management
-- Internal Marks
-- Notifications
-- Admin Dashboard
-
----
-
-## 📖 Currently Learning
-
+- Artificial Intelligence
 - Computer Vision
-- Django Advanced
 - Embedded Systems
-- Data Structures & Algorithms
+- Backend Development
+- Open Source
+
+🌱 Currently Learning
+
+- Django
+- Embedded Systems
+- Computer Vision
 - Machine Learning
+- DSA
+
+🎯 Goal
+
+Become a world-class Software Engineer.
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,django,bootstrap,mysql,sqlite,git,github,linux,vscode"/>
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+</p>
 
 ---
 
-## 🌟 Goals for 2026
+# 📊 GitHub Analytics
 
-- ✅ Build production-ready projects
-- ✅ Learn Embedded Systems
-- ✅ Contribute to Open Source
-- ✅ Improve DSA skills
-- ✅ Explore AI & Computer Vision
-- ✅ Secure a Software Engineering internship
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🤝 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+</p>
 
 ---
 
-> *"Learning never stops. Every project is a step toward becoming a better engineer."* 🚀
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Current Project
+
+### 🎓 College ERP System
+
+✔ Student Portal
+
+✔ Faculty Portal
+
+✔ Attendance System
+
+✔ Internal Marks
+
+✔ Notifications
+
+✔ Admin Dashboard
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build production-ready projects
+
+✅ Learn Embedded Systems
+
+✅ Contribute to Open Source
+
+✅ Master Computer Vision
+
+✅ Improve DSA
+
+✅ Secure a Software Engineering Internship
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+
+</p>
