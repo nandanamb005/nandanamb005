@@ -112,7 +112,7 @@ Currently focused on building practical skills in **Linux**, **Embedded Systems*
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/nandanamb005">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -120,7 +120,7 @@ Currently focused on building practical skills in **Linux**, **Embedded Systems*
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nandanamb005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
