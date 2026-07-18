@@ -1,65 +1,63 @@
-## Hi there 👋
-<!-- Animated Header -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20👋,%20I'm%20Nandana%20M%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Future%20Software%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E3A8A,50:2563EB,100:38BDF8&text=Nandana%20M%20B&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Linux%20Enthusiast%20%7C%20Embedded%20Systems&descAlignY=55"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+%26+Computer+Vision+Enthusiast;Backend+Developer;Embedded+Systems+Learner;Linux+User;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software...;Learning+Linux...;Exploring+Embedded+Systems...;Interested+in+Cloud+Computing...;Always+Curious+🚀"/>
 </p>
 
 ---
 
-# 💫 About Me
-
-🎓 B.Tech Computer Science Student
-
-💻 Passionate about
-
-- Artificial Intelligence
-- Computer Vision
-- Embedded Systems
-- Backend Development
-- Open Source
-
-🌱 Currently Learning
-
-- Django
-- Embedded Systems
-- Computer Vision
-- Machine Learning
-- DSA
-
-🎯 Goal
-
-Become a world-class Software Engineer.
-
----
-
-# 🚀 Tech Stack
+<h2 align="center">👋 Hello, I'm Nandana</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,django,bootstrap,mysql,sqlite,git,github,linux,vscode"/>
+Computer Science student who enjoys learning how software works—from backend applications to operating systems and embedded devices.
+
+Currently focused on building practical skills in **Linux**, **Embedded Systems**, and **Cloud Computing**.
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,django,git,github,linux,bash,docker,mysql,sqlite,vscode&perline=7"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 Interests
+
+<div align="center">
+
+| 🔧 Embedded Systems |        🐧 Linux       |      ☁️ Cloud      | 💻 Backend |
+| :-----------------: | :-------------------: | :----------------: | :--------: |
+|   Microcontrollers  |    Shell Scripting    |       Docker       |   Django   |
+|  Device Programming | System Administration | Cloud Fundamentals |    APIs    |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Streak
 
 <p align="center">
 
@@ -69,17 +67,7 @@ Become a world-class Software Engineer.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
 
@@ -89,41 +77,38 @@ Become a world-class Software Engineer.
 
 ---
 
-# 🚀 Current Project
+## 🌱 Currently Learning
 
-### 🎓 College ERP System
+```text
+🐧 Linux
+███████████████░░░░ 75%
 
-✔ Student Portal
+🔧 Embedded Systems
+██████████░░░░░░░░░ 50%
 
-✔ Faculty Portal
+☁️ Cloud Computing
+████████░░░░░░░░░░░ 40%
 
-✔ Attendance System
+🐍 Python
+██████████████░░░░░ 70%
 
-✔ Internal Marks
-
-✔ Notifications
-
-✔ Admin Dashboard
-
----
-
-# 🎯 2026 Goals
-
-✅ Build production-ready projects
-
-✅ Learn Embedded Systems
-
-✅ Contribute to Open Source
-
-✅ Master Computer Vision
-
-✅ Improve DSA
-
-✅ Secure a Software Engineering Internship
+💻 Django
+████████████░░░░░░░ 60%
+```
 
 ---
 
-# 🌎 Connect With Me
+## 💡 Quote
+
+<p align="center">
+
+> "Stay curious. Build consistently. Learn deeply."
+
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
 
@@ -145,24 +130,12 @@ Become a world-class Software Engineer.
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:1E3A8A"/>
 </p>
